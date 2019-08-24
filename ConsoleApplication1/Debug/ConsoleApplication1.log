@@ -1,0 +1,5 @@
+﻿  OVR_PlatformLoader.cpp
+c:\users\antar\desktop\ovr\windows\ovr_platformloader.cpp(248): error C2664: 'DWORD (PCCERT_CONTEXT,DWORD,DWORD,void *,LPWSTR,DWORD)': cannot convert argument 4 from 'const char [8]' to 'void *'
+  c:\users\antar\desktop\ovr\windows\ovr_platformloader.cpp(250): note: Conversion loses qualifiers
+  ConsoleApplication1.cpp
+  Generating Code...
